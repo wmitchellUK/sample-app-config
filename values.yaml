@@ -1,5 +1,5 @@
 shared_3: 3
 shared_2: 2
 shared_1: 1
-svc_values_1: "1"
-svc_values_2: "1"  
+svc_values_1: 1
+svc_values_2: 1
